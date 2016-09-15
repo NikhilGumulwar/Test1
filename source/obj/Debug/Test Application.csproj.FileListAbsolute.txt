@@ -3,3 +3,4 @@ D:\OfficeStuff\workspace\TestApplication\source\bin\Debug\Test Application.exe.c
 D:\OfficeStuff\workspace\Test_Application\Test1\source\bin\Debug\Test Application.exe.config
 D:\OfficeStuff\workspace\Test_Application\Test1\source\obj\Debug\Test Application.exe
 D:\OfficeStuff\workspace\Test_Application\Test1\source\obj\Debug\Test Application.pdb
+D:\Office\Test1\source\bin\Debug\Test Application.exe.config
