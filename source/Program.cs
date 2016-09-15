@@ -5,6 +5,7 @@ namespace HelloGitHub
     {
         static void Main(string[] args)
         {
+            //This is not cool But is very good
             Console.Write("At last sync scuccess!!!!");
             //Display Hello Git Hub
             Console.WriteLine("Hello Git Hub");
